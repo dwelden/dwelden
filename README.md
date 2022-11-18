@@ -1,4 +1,6 @@
-### Hi there 👋
+Dabbler in data.
+
+#SnowflakeCloudDataPlatform #Python
 
 <!--
 **dwelden/dwelden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://joinmastodon.org/logos/logo-purple.svg" width="16" height="16"> <a rel="me" href="https://mastodon.online/@davew">https://mastodon.online/@davew</a>
