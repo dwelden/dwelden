@@ -2,6 +2,8 @@ Dabbler in data.
 
 #SnowflakeCloudDataPlatform #Python
 
+<img src="https://github.com/user-attachments/assets/deae51c4-d82f-4b8d-85a1-311122707de1" alt="Keep Calm and Query On" width="200"/>
+
 <!--
 **dwelden/dwelden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
